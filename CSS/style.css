@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Bitter|Great+Vibes|Mansalva&display=swap');
+
+body{
+  background-image: url(https://www.thisiscolossal.com/wp-content/uploads/2018/08/Isopoly_01.gif);
+}
+h1{
+  color:#FA90F7;
+  font-family: bold;
+  font-family:'Bitter', serif;
+}
+p{
+  color: #BDFF87;
+  font-size: 18pt;
+  font-family:'Great Vibes', cursive;}
+
+.video1{
+  transform: rotate(45deg);
+}
+.spin{
+  transform:scale(4:3);
+  transform: rotate(345deg);
+  width: 640px;
+  height: auto;
+}
+
+.cat{
+  width:240px;
+  height:auto;
+  transform: rotate(270deg);
+}
+.video2{
+  transform: skew(15deg);
+  transform: rotate(45deg);
+}
+.video3{
+  transform: rotate(300deg);
+}
+.p2{
+  color:#D1F9FF;
+  font-family: 'Mansalva', cursive;
+}
+img{
+  display: inline;
+  width:400px;
+  height:auto;
+}
